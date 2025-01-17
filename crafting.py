@@ -12,4 +12,5 @@ for i in range(int(input())):
         else:
             deficit += b[i] - a[i]
     
+    
     print("YES" if surplus > deficit else "NO")
