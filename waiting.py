@@ -12,4 +12,4 @@ for _ in range(int(input())):
         else:
             print("NO")
             b-=n
-    
+    print("This is from Prosenjit")
