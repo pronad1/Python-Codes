@@ -22,3 +22,4 @@ for _ in range(5):
 print(f"The length of the array is {len(car)} .")
 for x in car:
     print(x)
+    print("This is from Prosenjit")
